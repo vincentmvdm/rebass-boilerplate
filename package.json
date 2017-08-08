@@ -6,6 +6,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10",
+    "rebass": "^1.0.3",
     "sanitize.css": "^5.0.0",
     "styled-components": "^2.1.2"
   },
