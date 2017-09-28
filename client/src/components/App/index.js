@@ -1,14 +1,16 @@
 import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom';
-import { Provider } from 'rebass';
+import { Provider, Container } from 'rebass';
+import '../../global-styles';
+import Hello from '../Hello'; 
 
 const App = () => {
     return (
         <BrowserRouter>
             <Provider>
-                <div>
-                    <p>Test</p>
-                </div>
+                <Container>
+                    <Route exact path="/" component={Hello} />
+                </Container>
             </Provider>
         </BrowserRouter>
     );
