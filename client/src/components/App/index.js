@@ -4,9 +4,13 @@ import { Provider } from 'rebass';
 
 const App = () => {
     return (
-        <div>
-            Test
-        </div>
+        <BrowserRouter>
+            <Provider>
+                <div>
+                    <p>Test</p>
+                </div>
+            </Provider>
+        </BrowserRouter>
     );
 }
 
