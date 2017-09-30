@@ -3,14 +3,16 @@ import { BrowserRouter, Route } from 'react-router-dom';
 import { Provider, Container } from 'rebass';
 import 'sanitize.css/sanitize.css';
 import '../../global-styles';
-import Hello from '../Hello'; 
+import LocalStateAndAPI from '../../containers/LocalStateAndAPI'; 
+import GlobalStateAndAPI from '../../containers/GlobalStateAndAPI'; 
 
 const App = () => {
     return (
         <BrowserRouter>
             <Provider>
                 <Container>
-                    <Route exact path="/" component={Hello} />
+                    <LocalStateAndAPI />
+                    <GlobalStateAndAPI />
                 </Container>
             </Provider>
         </BrowserRouter>
