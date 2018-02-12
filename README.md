@@ -33,11 +33,11 @@ The folder structure is based on react-boilerplate's, which in turn is based on 
 
 ### Redux Thunk instead of Redux Saga
 
-Asynchronous dispatch is essential, but Redux Saga is complex and takes a while to learn. Redux Thunk takes at most 30 minutes to learn and set up.
+Asynchronous action dispatch is essential, but Redux Saga is complex and takes a while to learn. Redux Thunk takes at most 30 minutes to learn and set up.
 
 ### Rebass
 
-Rebass provides only the essential components you would end up creating yourself otherwise. It enables you to easily use an [8pt grid](https://spec.fm/specifics/8-pt-grid) and styled-components makes customization easy.
+Rebass provides only the essential components you would create yourself anyway. It enables the use of an [8pt grid](https://spec.fm/specifics/8-pt-grid) and customization is easy thanks to styled-components.
 
 ### Redux Form
 
