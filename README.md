@@ -46,7 +46,7 @@ Synchronizing your form and Redux state is useful. Redux Form makes that and (sy
 ## Quick Start
 
 1. Clone this repository: `git clone https://github.com/vincentmvdm/rebass-boilerplate.git`
-2. Move to the directory: `cd rebass-boilerplate`
+2. Navigate to the directory: `cd rebass-boilerplate`
 3. Install packages: `yarn install` or `npm install`
 4. Start: `yarn start` or `npm start`
 
