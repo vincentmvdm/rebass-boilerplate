@@ -1,0 +1,33 @@
+{
+    "name": "rebass-boilerplate",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "history": "^4.7.2",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0",
+        "react-helmet": "^5.2.0",
+        "react-redux": "^5.0.6",
+        "react-router": "^4.2.0",
+        "react-router-dom": "^4.2.2",
+        "react-router-redux": "^5.0.0-alpha.9",
+        "react-scripts": "1.1.0",
+        "rebass": "^1.0.4",
+        "redux": "^3.7.2",
+        "redux-form": "^7.2.3",
+        "redux-logger": "^3.0.6",
+        "redux-thunk": "^2.2.0",
+        "reselect": "^3.0.1",
+        "sanitize.css": "^5.0.0",
+        "styled-components": "^3.1.6"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "prettier": {
+        "tabWidth": 4
+    }
+}
