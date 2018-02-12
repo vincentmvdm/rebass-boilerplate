@@ -14,7 +14,7 @@ A <a href="https://github.com/react-boilerplate/react-boilerplate" target="_blan
     <dt>Redux State Management</a></dt>
     <dd>Manage your application state with <a href="https://github.com/reactjs/redux" target="_blank">Redux</a> and <a href="https://github.com/reactjs/react-redux">react-redux</a>.</dd>
     <dt>Redux-Synced Routing</dt>
-    <dd>Power your app with <a href="https://github.com/ReactTraining/react-router" target="_blank">react-router</a> routing while kepeing your application state up-to-date.</dt>
+    <dd>Power your app with <a href="https://github.com/ReactTraining/react-router" target="_blank">react-router</a> routing while keeping your application state up-to-date.</dt>
     <dt>Asynchronous Action Dispatch</dsd>
     <dd>Wait for functions to finish before dispatching new actions.</test>
     <dt>Redux-Synced Forms and Form Validation</dt>
