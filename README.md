@@ -1,6 +1,6 @@
 # Rebass Boilerplate
 
-A <a href="https://github.com/react-boilerplate/react-boilerplate" target="_blank">react-boilerplate</a> inspired starter for your <a href="https://www.styled-components.com/" target="_blank">styled-components</a> projects.
+A <a href="https://github.com/react-boilerplate/react-boilerplate" target="_blank">react-boilerplate</a> inspired starter for your <a href="https://github.com/styled-components/styled-components" target="_blank">styled-components</a> projects.
 
 <sub>Created by <a href="https://github.com/vincentmvdm" target="_blank">Vincent van der Meulen</a> (<a href="https://twitter.com/vincentmvdm" target="_blank">@vincentmvdm</a> on Twitter)</sub>
 
