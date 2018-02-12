@@ -10,8 +10,8 @@ A <a href="https://github.com/react-boilerplate/react-boilerplate" target="_blan
     <dt>Create React App </dt>
     <dd>Develop and deploy React applications with ease using <a href="https://github.com/facebook/create-react-app">Create React App</a>.</dd>
     <dt>Rebass Components</dt>
-    <dd>Jump start your styled-components project with <a href="https://github.com/jxnblk/rebass" target="_blank">Rebass</a>, a set of essential and customizable components.</dd>
-    <dt>Redux State Management</dt>
+    <dd>Jump start your styled-components project with <a href="https://github.com/jxnblk/rebass" target="_blank"> a set of essential and customizable components</a>.</dd>
+    <dt>Redux State Management</a></dt>
     <dd>Manage your application state with <a href="https://github.com/reactjs/redux" target="_blank">Redux</a> and <a href="https://github.com/reactjs/react-redux">react-redux</a>.</dd>
     <dt>Redux-Synced Routing</dt>
     <dd>Power your app with <a href="https://github.com/ReactTraining/react-router" target="_blank">react-router</a> routing while kepeing your application state up-to-date.</dt>
