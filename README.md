@@ -41,7 +41,7 @@ Rebass provides only the essential components you would end up creating yourself
 
 ### Redux Form
 
-It useful to synchronize your form state with your Redux state. Redux Form makes that and (synchronous) form validation easy.
+Synchronizing your form and Redux state is useful. Redux Form makes that and (synchronous) form validation easy.
 
 ## Quick Start
 
