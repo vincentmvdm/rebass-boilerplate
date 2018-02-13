@@ -52,7 +52,7 @@ Synchronizing your form and Redux state is useful. Redux Form makes that and (sy
 
 ## Attribution
 
-The majority of code is blatantly copied from <a href="https://github.com/react-boilerplate/react-boilerplate" target="_blank">react-boilerplate</a> and every package's respective documentation. Thanks to <a href="https://github.com/mxstbr" target="_blank">Max Stoiber</a> for creating <a href="https://github.com/styled-components/styled-components" target="_blank">styled-components</a> and react-boilerplate. Thanks to Brent Jackson for making <a href="https://github.com/jxnblk/rebass" target="_blank">Rebass</a>.
+The majority of code is blatantly copied from <a href="https://github.com/react-boilerplate/react-boilerplate" target="_blank">react-boilerplate</a> and every package's respective documentation. Thanks to <a href="https://github.com/mxstbr" target="_blank">Max Stoiber</a> for creating <a href="https://github.com/styled-components/styled-components" target="_blank">styled-components</a> and react-boilerplate. Thanks to <a href="https://github.com/jxnblk" target="_blank">Brent Jackson</a> for making <a href="https://github.com/jxnblk/rebass" target="_blank">Rebass</a>.
 
 ## License
 
