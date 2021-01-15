@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
-import { ThemeProvider } from 'emotion-theming'
+import { ThemeProvider } from '@emotion/react'
 import theme from '@rebass/preset'
 
 import createHistory from "history/createBrowserHistory";
-import { ConnectedRouter } from "react-router-redux";
+import { ConnectedRouter } from 'connected-react-router';
 import "sanitize.css/sanitize.css";
 
 import App from "./containers/App";
