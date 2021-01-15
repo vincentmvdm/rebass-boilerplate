@@ -1,5 +1,5 @@
 import React from "react";
-import { Label, Input } from "rebass";
+import { Label, Input } from "@rebass/forms";
 
 export default function renderField({
     input,

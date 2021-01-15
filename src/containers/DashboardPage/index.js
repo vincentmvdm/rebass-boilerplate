@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Helmet } from "react-helmet";
-import { Container, Heading, Text } from "rebass";
+import { Box, Heading, Text } from "rebass";
 
 import StyledMeasure from "../../components/StyledMeasure";
 
@@ -11,7 +11,7 @@ class DashboardPage extends Component {
                 <Helmet>
                     <title>Dashboard</title>
                 </Helmet>
-                <Container>
+                <Box>
                     <StyledMeasure>
                         <Heading is="h1">Dashboard</Heading>
                         <Text>
@@ -20,7 +20,7 @@ class DashboardPage extends Component {
                             risus. Nulla mollis ex ut lorem finibus ultricies.
                         </Text>
                     </StyledMeasure>
-                </Container>
+                </Box>
             </div>
         );
     }
