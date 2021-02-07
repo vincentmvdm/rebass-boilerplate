@@ -1,9 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
-import { Provider as RebassProvider } from "rebass";
+import { ThemeProvider } from '@emotion/react'
+import theme from '@rebass/preset'
+
 import createHistory from "history/createBrowserHistory";
-import { ConnectedRouter } from "react-router-redux";
+import { ConnectedRouter } from 'connected-react-router';
 import "sanitize.css/sanitize.css";
 
 import App from "./containers/App";
@@ -18,11 +20,11 @@ const store = configureStore(initialState, history);
 
 ReactDOM.render(
     <Provider store={store}>
-        <RebassProvider>
+        <ThemeProvider theme={theme}>
             <ConnectedRouter history={history}>
                 <App />
             </ConnectedRouter>
-        </RebassProvider>
+        </ThemeProvider>
     </Provider>,
     document.getElementById("root")
 );

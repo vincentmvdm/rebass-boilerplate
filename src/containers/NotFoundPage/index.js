@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Helmet } from "react-helmet";
-import { Container, Heading, Text } from "rebass";
+import { Box, Heading, Text } from "rebass";
 
 import StyledMeasure from "../../components/StyledMeasure";
 
@@ -11,7 +11,7 @@ class NotFoundPage extends Component {
                 <Helmet>
                     <title>Page not found</title>
                 </Helmet>
-                <Container>
+                <Box>
                     <StyledMeasure>
                         <Heading>Page not found</Heading>
                         <Text>
@@ -20,7 +20,7 @@ class NotFoundPage extends Component {
                             Aenean sit amet metus vitae magna dictum aliquet.
                         </Text>
                     </StyledMeasure>
-                </Container>
+                </Box>
             </div>
         );
     }

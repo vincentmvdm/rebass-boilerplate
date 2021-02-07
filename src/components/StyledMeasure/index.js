@@ -1,7 +1,6 @@
 import styled from "styled-components";
-import { Measure } from "rebass";
 
-const StyledMeasure = styled(Measure)`
+const StyledMeasure = styled.div`
     max-width: 30em;
 `;
 

@@ -1,7 +1,6 @@
-import { injectGlobal } from "styled-components";
+import { createGlobalStyle } from "styled-components"
 
-/* eslint no-unused-expressions: 0 */
-injectGlobal`
-    body {
-    }
-`;
+const GlobalStyle = createGlobalStyle`
+  body {
+  }
+`
